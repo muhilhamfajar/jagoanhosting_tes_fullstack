@@ -2,7 +2,6 @@
 Tes fullstack programmer menggunakan laravel untuk menampilkan dynamic api.
 <br>
 ## **Instalatation**
-___
 
 1.Clone project
 ```
@@ -40,7 +39,6 @@ php artisan serve
 <br>
 
 ## **Documentation API**
-___
 
 ### **Get all data**
 Get data tanpa query.
