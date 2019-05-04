@@ -252,4 +252,4 @@ Get data dengan query yang diinputkan
 | statusOrIn  | string  | Menampilkan juga data berdasarkan ```statusOrIn``` <br> value yang tersedia = active, loss, banned, pending | statusOrIn=active,loss
 | statusOrNotIn  | string  | Menampilkan juga data berdasarkan ```statusOrIn``` <br> value yang tersedia = active, loss, banned, pending | statusOrNotIn=pending
 | field  | string  | ```Field``` digunakan untuk mengurutkan data berdasarkan kolom yang dipilih | field=id
-| order  | string  | ```order``` digunakan untuk mengurutkan data berdasarkan terbesar atau terkecil <br> value yang tersedia = asc,desc | string
+| order  | string  | ```order``` digunakan untuk mengurutkan data berdasarkan terbesar atau terkecil <br> value yang tersedia = asc,desc | order=desc
